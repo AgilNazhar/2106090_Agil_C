@@ -11,7 +11,7 @@
 <body>
     <div class="kotak">
         <h2>FORM <BR> PEMBELIAN BUKU</BR></h2>
-        <form method="POST" action="input.php">
+        <form method="POST" action="proses_input.php">
 
             <label for="username"> Masukan Username :</label>
             <input type="text" name="username" id="username" maxlength="20" class="form-input" required><br>
